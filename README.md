@@ -58,13 +58,11 @@ python main.py
 ```
 📂 Steganography-Tool
  ┣ 📜 main.py         # Main application with GUI
- ┣ 📜 encrypt.py      # Encryption logic
- ┣ 📜 decrypt.py      # Decryption logic
  ┣ 📜 README.md       # Project documentation
 ```
 
 ## Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
+Contributions are welcome! You can fix this repository and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
